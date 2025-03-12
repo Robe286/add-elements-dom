@@ -1,10 +1,5 @@
 // Aquí tu código
 
-
-
-
-
-
 const agregar = document.getElementById('agregar');
 const lista = document.getElementById('lista');
 const listOne = document.createElement('li');
